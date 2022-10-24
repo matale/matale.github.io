@@ -1,0 +1,2025 @@
+{
+    "day1": [
+      {
+        "title": "8:00 a.m",
+        "data": [
+          {
+            "id": 1000,
+            "name": "Registration and Check-In 📝",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "9:00 a.m",
+        "data": [
+          {
+            "id": 1100,
+            "name": "Welcome Address",
+            "desc": "Join droidcon CEO Greg Fawson for a look at this year's event highlights, some exciting community initiatives and a brief look at the new e-learning platform.",
+            "cat": [
+              "Session",
+              "Other"
+            ],
+            "presenters": "Greg Fawson",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "9:20 a.m",
+        "data": [
+          {
+            "id": 1200,
+            "name": "Keynote: The Silver Bullet Syndrome Director's Cut - Complexity Strikes Back! ",
+            "desc": "It's 2022. Developers have seen it all. They've tried it all. But it seems all is just not enough. The quest for simple has led us to a path of complexity that is often needless. Or is it? Was it all just a lie? Was it all about job security?                     As the world moves towards businesses that demand even more developer resources, can we as an industry come together and think about how we can make the world a simpler place? Or will complexity take over even more?                    In the Director's cut of Silver Bullet Syndrome, we'll see where we are as an industry, and more importantly, how we've ended up in a twisted and unnecessarily complex situation.",
+            "cat": [
+              "Session",
+              "droidcon",
+              "Introductory and overview",
+              "Keynote"
+            ],
+            "presenters": "Hadi Hariri",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "10:10 a.m",
+        "data": [
+          {
+            "id": 1300,
+            "name": "Break ☕",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "10:20 a.m",
+        "data": [
+          {
+            "id": 1400,
+            "name": "Composing With Confidence",
+            "desc": "As developers, a crucial function of our job is shipping reliable bug-free code. A great way to support that is through testing - ensuring our code behaves as expected and allowing us to ship with certainty. In this presentation, we’ll look at the available testing APIs for Jetpack Compose and how they can help us gain confidence in our products. You’ll leave the presentation with an understanding of how to find and interact with the elements on the screen, as well as how to make your tests easy to write and easy to maintain.",
+            "cat": [
+              "Introductory and overview",
+              "Session",
+              "Jetpack Compose"
+            ],
+            "presenters": "Adam McNeilly",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 1500,
+            "name": "Kotlin Multiplatform Mobile: From Hello World to Production ",
+            "desc": "Have you given Kotlin Multiplatform Mobile a try? Are you wondering how you take your “Hello World” app to something with more substance that is also ready for production? This talk will help with that by discussing:- Use case scenarios, including how to incorporate the technology into existing applications.                   - Recommendations and how-to’s for choosing and implementing your app architecture.                    - Approaches for unit and automated testing.                    - Suggestions for getting your CI/CD pipelines in place.                    - Recommendations for debugging crashes in production.                    The talk will conclude with some extra resources that will take your understanding to the next level. By the end of this talk, you should be able to take your “Hello World” to “Hello Editor’s Choice.”",
+            "cat": [
+              "Introductory and overview",
+              "Session",
+              "Jetpack Compose"
+            ],
+            "presenters": "Pamela Hill &Tadeas Kriz",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 1600,
+            "name": "Expand your Android app beyond the phone",
+            "desc": "We all know Android Apps are expanding beyond the phone screen, so join us to learn how Amazon Appstore is helping you bring your Android apps to a variety of form factors. We will explore the latest developer tools available to you, the different SDKs and services you can use to enhance your app, best practices to follow and testing services you can utilise to build an app that reaches millions of customers worldwide via our Fire Devices. We will also look at how you can use Windows Subsystem for Android to bring your Android Apps to desktop using the Amazon Appstore on Windows 11 devices. ",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Jetpack Compose",
+              "Flow",
+              "Testing",
+              "Compose"
+            ],
+            "presenters": "Giovanni Laquidara & Anisha Malde",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 1700,
+            "name": "Finding Success on Large Screens and Foldables ",
+            "desc": "Do you want to make sure your app presents a best-in-class user experience beyond the smartphone? Come and learn how to design, develop, and test applications that bring optimized experiences to large screen and foldable devices. We will explore the opportunities and challenges of developing for different form factors and the available APIs, tools and best practices from the Microsoft Surface Duo team to help bring your apps into the modern age!",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Session",
+              "Foldables",
+              "Flutter"
+            ],
+            "presenters": "John Wiese",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 1800,
+            "name": "Flutter under the hood. What makes Flutter tick",
+            "desc": "A deep dive into how Flutter works; from its layered architecture, all the way to how it uses the widget tree to render components on the screen.                   This talk aims to demystify how Flutter is built and how it helps developers create unique and performant mobile apps, by allowing them to have fast development cycles and customized animations and look and feel.",
+            "cat": [
+              "Flutter",
+              "Introductory and overview",
+              "Session",
+              "Flutter"
+            ],
+            "presenters": "Efthymios Sarmpanis",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "11:00 a.m",
+        "data": [
+          {
+            "id": 1900,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "11:10 a.m",
+        "data": [
+          {
+            "id": 2000,
+            "name": "Composable Sheep: The Creative Coding Epilogue",
+            "desc": "Creative Coding is the concept of creating something expressive rather than functional, a bridge between the realms of art and tech. In this talk, we'll go over some concepts of creative coding while using the Compose Canvas to draw some sheep! We'll also demonstrate some generative art and animation techniques to bring our woolly sheep to life. At the end of this talk, you should have a better understanding of how to leverage custom Canvas drawing as a form of expression for all your crazy ideas! Who says coding has to be serious and boring? Sometimes, you just need to have fluffy fun! And that, is what this talk is all about :)",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Jetpack Compose"
+            ],
+            "presenters": " Nicole Terc & Tasha Ramesh",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 2100,
+            "name": "Little Kotlin Multiplatform Treasures",
+            "desc": "Kotlin is a world of beautiful islands and deep blue waters, full of little treasures to be discovered. Every traveler has heard of multiplatform and native, of course. But only the adventurous of you are ready to find the little gems.  Did you wonder what a Kotlin Native binary is made of? We'll have a deep look into its machinery, how to inspect binaries, and even disassemble a native Kotlin function using an open-source tool provided by the NSA. Then we will build our own treasure - a tiny Docker image with a Kotlin program. We'll then sail over to the Multiplatform island and find out how multi-module projects can be achieved, how to build & distribute KMP libraries using Swift Package, Git & Artifactory, and how to speed up compilation in times of need. Come along this journey - and be surprised what you'll find!",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "KMP"
+            ],
+            "presenters": "Marc Reichelt",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 2200,
+            "name": "Keeping your team's Gradle builds in top shape",
+            "desc": "Which tasks are having cache misses?                    Who has the slowest builds on my team?                     Which task is getting the most cache misses?                    These questions and more can be easily answered with the new Gradle Enterprise API.         Come learn about how to automatically check your build's cacheability and find out who on your team is suffering the most painful builds.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Gradle"
+            ],
+            "presenters": "Nelson Osacky",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 2300,
+            "name": "Design for errors - An introduction to Domain Modeling with Arrow",
+            "desc": "You came up with a rough MVP, and you shipped it. Congratulations! You validated your idea, and now you need to make it last, stepping up the quality of your code base.              We will learn about Domain Modeling, with Kotlin and Arrow, to make our code base more deterministic, create a shared language we can use with other teams, and bring the business requirements from documentation to code.                   At the end of the talk, you will know the basics of Domain-Driven Design, how to leverage the Kotlin compiler to write fewer tests, and how to use Arrow to handle error scenarios with ease.",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session",
+              "Kotlin",
+              "Other"
+            ],
+            "presenters": "Ivan Morgillo",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 2400,
+            "name": "Mastering Flutter Web ",
+            "desc": "With the release of Flutter 2, the official support for the web platform seemed to provide an excellent opportunity: being able to use the existing code base of a mobile app and just run on an additional platform that is even more accessible to users around the world.                   Using the popular word game 4 Pics 1 Word as an example, this talk will outline the basic considerations we had to take into account when developing the new web version of our app for Facebook Instant Games with Flutter. What were the challenges that we faced when trying to achieve near-native performance with each web renderer? What tricks did we use to finally manage to release our app? And what future improvements could make the web engine really fly?",
+            "cat": [
+              "Flutter",
+              "Intermediate",
+              "Session",
+              "Techniques & Guides",
+              "Flutter"
+            ],
+            "presenters": "Joachim Böhmer",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "11:50 a.m",
+        "data": [
+          {
+            "id": 2500,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "12:00 p.m",
+        "data": [
+          {
+            "id": 2600,
+            "name": "Creating applications for small screen, low memory Android Wearables ",
+            "desc": "Developing for small screen, low memory wearable devices can present unique challenges for developers which include: - UI Design                    - Battery & Power Management                   - Memory Usage                    - Managing User Input                    In particular, we will look at the best practices and tips on how to create an application for Wearables from UI & UX standpoint and also how make it efficient and battery friendly.",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Lightning talk",
+              "Wearables"
+            ],
+            "presenters": "Daniel Neamtu",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 2700,
+            "name": "A closer look into error handling techniques.",
+            "desc": "The whole world is thought and built for handling mainly successful events... we're always expecting a happy end! On the other hand, we don't really want to handle errors and therefore we quite often forget about them & their relevance.                    The failure in software is something inevitable, our code can fail, the backend connection can fail and even the device could also fail. Error handling techniques are there to help us properly react when an expected or unexpected error might happen.                     From the functional programming, the monad design pattern comes to the rescue handling whichever response we can get, either success or error. We'll explore some of the specific Android and Kotlin related approaches for it.                       After attending this lightning talk you'll have a broader perspective on the importance of error handling and the different ways that you can treat the different scenarios you may face.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Lightning talk",
+              "Techniques & Guides"
+            ],
+            "presenters": "Diana Samboní",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 2800,
+            "name": "Demystifying Enterprise Mobile Application Development.",
+            "desc": "Accessing enterprise data, rapidly developing new applications without compromising on enterprise standards can seem daunting. This talk will introduce you to our Software Development Kit that enables you to built native apps faster while ensuring developers adhere to strict enterprise mobility best-practices. In this talk you will learn how to:              - Access enterprise data             - Ensure enterprise security                    - Sync data offline                    - Manage the life cycle of enterprise apps",
+            "cat": [
+              "enterprise & security",
+              "Introductory and overview",
+              "Lightning talk",
+              "Other"
+            ],
+            "presenters": "Sandeep TDS",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 2900,
+            "name": "Managing multiple packages in a monorepo",
+            "desc": "Have you ever had problems with organising multiple packages that you developing that are depending on each other? Or maybe you are tired of manually writing changelogs and setting versions? And are you missing those handy little snippets that you used to run from a makefile? Melos to the rescue! Melos is a CLI tool used to help manage packages and other things in Dart projects, it is especially powerful when handling mono-repos.",
+            "cat": [
+              "Flutter",
+              "Intermediate",
+              "Lightning talk",
+              "Other"
+            ],
+            "presenters": "Lukas Klingsbo",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "12:20 p.m",
+        "data": [
+          {
+            "id": 3000,
+            "name": "Lunch 🍔🍴",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "1:10 p.m",
+        "data": [
+          {
+            "id": 3100,
+            "name": "Android Graphics: Blurring the Lines ",
+            "desc": "This session will introduce recent graphics APIs and capabilities on Android that enable richer applications. Blurs, RenderEffects, shaders, and more; come hear about how you can use these new APIs to enable rich graphical effects for more powerful UI experiences.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Lightning talk",
+              "Techniques & Guides",
+              "API"
+            ],
+            "presenters": "Chet Haase",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 3200,
+            "name": "Exploration of tools, frameworks to take the pain out of mobile app testing!",
+            "desc": "What's the holy grail of test automation? UI testing/E2E testing, of course! Unfortunately, the fickle nature of UI interaction during development, test flakiness, and user scenario permutations make this difficult to achieve. This is particularly the case in mobile app development due to a large number of device configurations (including OS versions, device form factors, and device manufacturers).                    We all know that it's important to begin testing for issues as early as possible. Yet the great challenge to 'shifting left' is that UI automation takes time and requires skilled engineers to build who are in short supply in this job market.                Using a combination of no-code/lowcode approach, seamless CI integration, and built-in resiliency to reduce flakiness, we can make this a viable approach that is less costly or time-consuming. We will discuss pros and cons of various approaches (scripting, low code, nocode) to solving this problem and delve into one that we have pioneered in Sofy.",
+            "cat": [
+              "enterprise & security",
+              "Intermediate",
+              "Lightning talk",
+              "Testing"
+            ],
+            "presenters": "Syed Hamid",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 3300,
+            "name": "Mobile Application Performance Done The Right Way",
+            "desc": "In the overcrowded mobile market, performance is key but a problem still exists; it’s hard to measure performance. Mobile app performance analysis tools have lagged behind the advances in Observability - until now. Join this session where we will be rethinking mobile performance management. Learn about the impact of combining tracing and APM specifically for mobile app developers to be able to truly see your app user flows and the code behind them.  Our ultimate goal is that democratizing software development leads to a better — more performant, inclusive and thoughtful — mobile product and UX. Attend this session to get an introduction to groundbreaking technology and toolsets where we will dive deep through code with a single pane of glass for Android and iOS, and visualize apps alongside their code in a totally new way.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Lightning talk",
+              "Kotlin",
+              "Testing",
+              "Other",
+              "Modern",
+              "Android Development"
+            ],
+            "presenters": "Steve Lerner",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "1:30 p.m",
+        "data": [
+          {
+            "id": 3400,
+            "name": "Break 🥤",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "1:40 p.m",
+        "data": [
+          {
+            "id": 3500,
+            "name": "Thinking outside the Box: Custom Compose layouts ",
+            "desc": "Jetpack Compose brought a new and simpler way of creating complex custom layouts with unique behaviors. In this talk, you’ll learn how to unlock the full potential of Compose layout system to create pixel perfect components.              We will dive deeper into advanced concepts behind building custom layouts. We will talk about the interaction between composition and layout, go over use cases for subcomposition, layout intrinsics and other intricate topics, and touch upon optimizing for performance of your custom layouts.",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session",
+              "Jetpack Compose"
+            ],
+            "presenters": " Andrey Kulikov & Andrei Shikov",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 3600,
+            "name": "Building a real-time collaboration tool using CRDTs and Kotlin Multiplatform ",
+            "desc": "A quick introduction to conflict-free replicated data types (CRDTs) and how you can use these to build a real-time collaborative tool, where multiple clients can make edits to the same data without conflicts, even while offline. We will go through an example of a solution we’ve built that relies on CRDTs in a Kotlin Multiplatform library, for native mobile, web frontend, and backend, with some learnings and tips along the way.       You will learn:                    - The basics of Conflict-free Replicated Data Types and Hybrid Logical Clocks which enables distributed computing, where operations can be sent and received from other nodes and data ends up in an eventually consistent state.                    - Learnings and tips from building such a realtime CRDT solution in a Kotlin Multiplatform library, consumed in Android, iOS, Web (TypeScript), and backend (Ktor), with communication via websockets.                   - The effects on the way data is modeled and stored when using CRDTs, and solutions for common operations (deletion, maintaining ordering of objects, relations between objects, undo/redo, etc).                  - How you can use CRDTs to build an offline-first and realtime multi-client app without worrying about complex syncing logic.                    - Some recommendations and advice for architectural decisions regarding Kotlin Multiplatform, especially as consumed from non-JVM targets.",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session",
+              "KMP"
+            ],
+            "presenters": "Anders Järleberg & Carlo Rapisarda",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 3700,
+            "name": "John Rodriguez & Tony Robalik",
+            "desc": "Whether consolidating build script logic, writing convention plugins, or adding tooling to your apps, Gradle plugins are powerful ways to extend your build.            This talk will show how to develop your plugins safely while avoiding some of the pitfalls you might otherwise encounter, especially the ones that can negatively impact your build speed!                   We'll analyze various plugins in the wild and explore:          * how to manage cacheability - build and configuration!        * deferring task creation until they're actually needed                    * working with properties, providers, and file collections                 * how convention plugins can help you scale your app builds sanely        * what APIs you should stop using now!",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Gradle"
+            ],
+            "presenters": "Andrey Kulikov & Andrei Shikov",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 3800,
+            "name": "Talking to your bike and other devices (wait, what?) ",
+            "desc": "When it comes to connectivity between Android apps and other devices, Bluetooth is usually the way to go, right? But, how does that work, exactly? And what does the future look like in that matter, by the way? In this talk, we're going to learn how Android applications can talk with real, consumer devices (like a smart bike!), what kind of APIs and implementation options we have for making that communication happen and what's new in terms of technologies, sensors and possibilities when it comes to communicating with real devices through your Android application! ",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Session",
+              "IoT"
+            ],
+            "presenters": "Walmyr Carvalho",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 3900,
+            "name": "Another World in Flutter",
+            "desc": "When your first world is not enough. Come to another world. I'm going to take you on a journey on how I source ported Another World to Flutter. My expectations, the challenges, and the unknown bridges I had to cross.",
+            "cat": [
+              "Flutter",
+              "Intermediate",
+              "Session"
+            ],
+            "presenters": "Simon Lightfoot",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "2:20 p.m",
+        "data": [
+          {
+            "id": 4000,
+            "name": "Break 🥤",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "2:30 p.m",
+        "data": [
+          {
+            "id": 4100,
+            "name": "Breaking the Rules: Dynamic Navigation in Modularized Apps ",
+            "desc": "Properly handled navigation is critical for modularized apps, which often implement navigation logic at runtime. This presents certain challenges when working with the Navigation Components library:      * How do we determine NavDestinations that are in other libraries, without access to their NavGraphs?            * How do we change the way backstack fragments behave based on past NavDestinations?                    * How do we safely maintain state for each Fragment in the backstack? And not least - how can we solve all of these issues when working with Compose?          Add in multiple modules and multiple libraries, and writing clean navigation logic can get really messy. I’ve dealt with all of these complexities when working on heavily modularized applications. I’ll walk the audience through the lessons I learned, and how to push the Navigation library capabilities to the fullest extent.",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session",
+              "Modularization"
+            ],
+            "presenters": "Sumayyah Ahmed",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 4200,
+            "name": "The ever increasing convergence of native iOS and Android mobile development",
+            "desc": "This talk will illustrate with examples where we find ourselves today in the world of iOS and Android mobile development with the ever increasing convergence of the languages and frameworks we're using, covering for example how similar the following are.- Swift/Kotlin                    - SwiftUI/Compose          - Swift 5.5/Kotlin concurrency frameworks",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Kotlin",
+              "Compose",
+              "Other"
+            ],
+            "presenters": "John O'Reilly",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 4300,
+            "name": "Modern App Performance",
+            "desc": "The Android Developer Relations team has created a holistic guide to app performance. In this session you will get to know best practices, libraries and tools that help with app and library performance. The session applies the lens of improving App Startup and Runtime Experience as both areas are paramount to creating an outstanding User Experience.",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Session",
+              "Modern Android Development"
+            ],
+            "presenters": "Ben Weiss",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 4400,
+            "name": "Practical Advanced Kotlin in Practice (Workshop) 💻",
+            "desc": "Getting started with Kotlin is as easy as saying “I want lambdas”, sure — but that’s only scratching the surface of the brave new world that adopting Kotlin will open up for Java and Android developers. In this workshop we’ll look at a number of language features and tips to make the most of the Kotlin Programming Language™ in our day-to-day work.We’ll touch on several topics, including property delegates, threading and coroutines, callbacks vs function references, sealed classes, member and extension functions, default parameters, typealiases, data classes and destructuring. For each of them, we’ll go over a series of dos and don’ts and best practices making sure you get the most out of Kotlin. Note for attendees:    Make sure you have a laptop computer with an up-to-date version of IntelliJ IDEA or Android Studio, with an up-to-date Kotlin plugin, and ideally the latest version of Kotlin and Gradle already in your local caches. We all know how conference Wi-Fi is :)",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Session",
+              "Modern Android Development"
+            ],
+            "presenters": "Sebastiano Poggi",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 4500,
+            "name": "Securing Flutter Apps",
+            "desc": "Robust mobile app security on devices people carry around is a special responsibility that is an undeniable aspect of mobile development, and Flutter is no exception. A security strategy with critical pillars such as Identify, Detect, Protect, Respond and Recover must be taken into account from day one. Reporting vulnerabilities, best practices to minimize risk, preventing reverse engineering, staying up to date, and identifying and blocking attacks in real-time with technology such as RASP (Runtime Application Self-Protection) are the topics you will take away from this talk. ",
+            "cat": [
+              "Flutter",
+              "Advanced",
+              "Session",
+              "Security"
+            ],
+            "presenters": "Majid Hajian",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "3:10 p.m",
+        "data": [
+          {
+            "id": 4600,
+            "name": "Break 🥤",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "3:20 p.m",
+        "data": [
+          {
+            "id": 4700,
+            "name": "Understanding Recomposition Performance Pitfalls",
+            "desc": "Did you ever have your app drop a frame? Or do you just want to achieve that buttery 60fps?                   Jetpack Compose changed the way we write apps, and with that, there are also new ways to optimize performance. You will learn how to identify common issues, find the root cause and, finally, optimize your app’s code. Through the lens of Compose internals, the talk will help you build an understanding of recomposition pitfalls related to state, stability and lambdas. Don’t know Compose in-depth yet? Don’t worry, just come along!",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Jossi Wolf & Andrei Shikov",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 4800,
+            "name": "When one device is not enough",
+            "desc": "As developers we know how to build apps that are flexible enough to run on different types of devices and properly display information on different screen sizes: from smartphones to tablets, from smartwatches to TVs. But what if a user wants to easily discover nearby devices and continue interacting with your app in a seamless way from one screen to the other? In this talk we’ll explore the new Cross Device SDK, which allows us to build multi-device experiences by enabling the users to easily discover nearby devices, establish secure connections, and move experiences between devices.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Daniele Bonaldo",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 4900,
+            "name": "Snapshot testing (and more!) with Paparazzi 📸",
+            "desc": "Unit tests allow you refactor your code with confidence and usually run blazingly fast! But how do you ensure that your UI looks as expected? Espresso tests are hard to set up, prone to flakiness and require APKs, emulators, dexing, ADB...ugh. Come find out how we're improving the UI testing loop on Cash App with Paparazzi -- an Android testing library to render your application screens without a physical device or emulator! This talk will explore both the use cases for Paparazzi, as well as go under the hood discussing its interaction with LayoutLib, the driver behind Android Studio's Layout Inspector feature. It'll also introduce and/or discuss exciting new upcoming features.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "John Rodriguez",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 5000,
+            "name": "Flutter on Desktop: end to end from build to distribution",
+            "desc": "This talk begins with giving a brief discussion explaining the benefit of cross-platform project on multiple screens (i.e desktop), then it dives into building a desktop application using Flutter on macOS, Linux and Windows, demoing the process of handling navigations, state management and API calls on a very different environment. Then it goes on to talk about desktop application distributions on these three platforms, giving you an overview of an end to end solution to craft your own very first desktop application. ",
+            "cat": [
+              "Introductory and overview",
+              "Session",
+              "Flutter"
+            ],
+            "presenters": "Teresa wu",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "4:00 p.m",
+        "data": [
+          {
+            "id": 5100,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "4:10 p.m",
+        "data": [
+          {
+            "id": 5200,
+            "name": "Behind The Screen: The Humans Who Use Our Code",
+            "desc": "Android has been around for over 10 years, and has now become the most used operating system in the entire world. It is the go to operating system for all kinds of user facing devices. From car displays and airplane entertainment systems, to fitness gear and points of sale, users are having countless interactions with Android. Sometimes without even realizing it. Android reaches humans from all walks of life and it is our responsibility to make them feel welcome and help keep them safe.                   This talk will cover key considerations to add to your engineering practice. Not all users use their devices the same way and we will learn about many styles of interaction. Advocate for the user. Learn how to recognize and push back against dark patterns before they make their way into the public.                    By putting these skills into practice, Android will continue to grow and be recognized as a great platform for all, and together we can ensure this happens.",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Matt McKenna & Adam McNeilly",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 5300,
+            "name": "Decompose your Kotlin Multiplatform project into feature modules",
+            "desc": "Maintaining a (not only) Kotlin Multiplatform project may become difficult as it grows. In this session, you will learn how to reduce the complexity and coupling of your code and improve testability by splitting the code into tree-structured feature modules.                    I will use my own library - Decompose - to provide each feature with a single entry-point, and to navigate between features in common code. I will also demonstrate how platform-specific UI can be plugged with this architecture - Jetpack Compose for Android, SwiftUI for iOS and React for Web.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "KMP"
+            ],
+            "presenters": "Arkadii Ivanov",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 5400,
+            "name": "Lessons in CI/CD from 3500 Android Teams ",
+            "desc": "Review how thousands of teams are building their software and uncover some best practices. Understand how your team compares to the industry as a whole and walk away with actionable insights for improving your CI/CD workflows.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Lightning talk",
+              "Techniques & Guides"
+            ],
+            "presenters": "Gen Citro",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 5500,
+            "name": "Beyond the Basics: Performance Monitoring and User Experience for Mobile App Growth",
+            "desc": "When interacting with a mobile app that regularly crashes or freezes, 53% of users uninstalled the app, 37% stopped using it, and 28% looked for a replacement. Users are no longer forgiving mobile app mishaps and errors. Going beyond the basic metrics of understanding your user experience and diving deep into mobile performance is key to ensuring growth and positive user experiences. We will highlight which metrics and takeaways mobile teams should track to create a superior app experience that takes into account every user interaction. Find out why app insights, proactive issue detection, advanced debugging, and alert management capabilities should matter to you and the development of your mobile app.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Flow",
+              "Testing",
+              "Techniques & Guides"
+            ],
+            "presenters": "Moataz Soliman",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 5600,
+            "name": "Getting started with Functional Programming",
+            "desc": "Object Oriented Programming is on a decline in popularity since 2010, while Functional Programming experience a second hype. Most new languages today are a mix of both, functional and object-oriented.                    Dart is an object-oriented language, featuring only some Functional Programming paradigms.                    This talk will teach the mindset behind FP and how to use more FP in todays dart code. I will give an outlook to upcoming Dart language features that make FP actually fun to use in Dart!",
+            "cat": [
+              "Advanced",
+              "Session",
+              "Techniques & Guides",
+              "Flutter"
+            ],
+            "presenters": "Pascal Welsch",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "4:50 p.m",
+        "data": [
+          {
+            "id": 5700,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "5:00 p.m",
+        "data": [
+          {
+            "id": 5800,
+            "name": "Streamlining Success - How we went from prototyping an SDK to serving billions of customers ",
+            "desc": "If you've ever wondered what's the process behind building an SDK or library for public use, then you might also be interested in how to do it for more than 10 different technologies and platforms, while serving billions of users all over the world!                   In this session, we'll go talk about how Stream started with its Chat product, which SDKs we built initially and how and what we had to do to scale our process to serve all modern platforms and technologies.                    We'll talk about the obstacles we found while building those SDKs and what we did differently for our Compose SDK, which served as a prototype that we applied to several other platforms.                     All of this will give you insight into how the startup world works and give you important tips to build your own product.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Filip Babić & Neevash Ramdial",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 5900,
+            "name": "Modularization - flatten your graph and get the real benefits",
+            "desc": "The story of improving modularization in multiple projects with 15+ contributing teams, hundreds of modules with complex module structure and how making order in the module graph brings the benefits from the modularization to your organization and prevents the high costs.\n The talk will first explain the basics of modularization with focus on why we modularize and how to measure the desired impact of the modularization to understand the benefits it brings to your product and organization.\nModularization has been with us for many years, yet there are still many traps to avoid and we will highlight how to not over-modularize.\nModule graph will be explained, its impact on build time, engineers' contributions, how to measure the healthiness of the graph and how to flatten the graph to achieve real improvements. We will highlight the good practices on how to decouple modules, how to loosely connect modules together, which traps to avoid and common sources of module coupling with their solutions.\nWe will factor into our modularization strategy a “cost of module”, which is not neglectable and balance that against the benefits modules bring. We will look for good modules and bad modules to optimize and make sure that all modules bring positive value.\nThe talk will show how to measure and automatically identify problematic modules and its dependencies paths within our module graph to enable prioritizing whilst incrementally improving the graph.\nObserved impact on the metrics of build time, contributions across teams, cost of modules and more will be shown. Insights will be shared on how to convince the organization to invest engineering time into modularization and how to synchronize the effort across teams from different departments. Modularization is treated and prioritized as a business enabler rather than just engineering.\n                   The modularization journeys keep showing that if we invest effort, the return of that investment can come back soon. Yet modularization also shows us that it is crucial to focus, explain and measure exactly why we modularize and point our efforts in the right direction to prevent getting more cost of modularization than benefits.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Mudularization"
+            ],
+            "presenters": "Josef Raska",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 6000,
+            "name": "Open Source at Scale",
+            "desc": "Standing on the shoulders of giants \nWe could say the same for Open Source Software (OSS).\nDaily we're using a countless number of OSS libraries, tools, and frameworks to build our applications. We rely on the work of contributors, companies, and foundations which are dedicating their time and resources to the Open Source ecosystem.\n                    However, building Open Source Software is not as easy as copy-n-pasting a folder on GitHub. Great Open Source Software needs dedicated resources, top-notch documentation, openness to the community, and a mindset to follow industry trends and directions.\n                    Moreover, releasing OSS as an individual and as a company has deep fundamental differences.\n                    Inside the React Team, we strive to build first-class OSS frameworks, to empower developers across the globe to build elegant UI experiences across Mobile & Web.\n                    In this talk, I'll walk you through my experience building OSS Software, how you can get started, how to get your organization involved, and how to bring your project to success.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Nicola Corti",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 6100,
+            "name": "One design system to rule them all",
+            "desc": "Being 100% aligned with designers is not as simple. They love to be creative and to create new components and see their ideas implemented quickly in the projects. But some times we don’t speak the same language when we should be always aligned. This is why we’ve created our own design system and found a solution for every team from every platform and projects be aligned with the same system.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Daniel Beleza",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 6200,
+            "name": "KarmaApp - Why we choose flutter and Firebase.",
+            "desc": "In this talk we discuss the app Architecture and why we choose flutter and Firebase , we will deeper into the capabilities the platform, feature comparison. We will look at some code and architecture discussions. We will also look into Firebase functions.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Flutter"
+            ],
+            "presenters": "Sumith Damodaran",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "5:40 p.m",
+        "data": [
+          {
+            "id": 6300,
+            "name": "🎉Party🎉",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      }
+    ],
+    "day2": [
+      {
+        "title": "8:00 a.m",
+        "data": [
+          {
+            "id": 6400,
+            "name": "Registration and Check-In 📝",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "9:00 a.m",
+        "data": [
+          {
+            "id": 6500,
+            "name": "Keynote: Comedy Talk - Better Android Development (BAD)",
+            "desc": "Real Description:\n Come along as we attempt to poke fun at the ridiculous world of Android App Development.\nReal REAL Description:                 We are two world-renowned Android self-certified experts with a combined experience of developing high quality, bug free Android Apps for over 40 years! If we include the low to mid quality apps, it’s well over 60 years!                    If the overwhelming amount of libraries, architectures and tools confuse you and you don’t know where to start, then look no further than this FREE (for now) talk.                    Forget Google!                    Forget Stack Overflow!                   Forget those pesky Medium articles! …                    We will show you how to PROPERLY code an App, using the Better Android Development (BAD) approach that will make all of your Apps immunised against every known strain of bug & will ensure your wallets become truly BETTER ... and full ... (no guarantees!)                    Ensure you sign the NDA before attending (link: bit.ly/3yMn39K), then strap yourselves for the ride of your life…",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Session",
+              "Keynote"
+            ],
+            "presenters": "Benjamin Kadel & Viktor Stojanov",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "9:40 a.m",
+        "data": [
+          {
+            "id": 6600,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "9:50 a.m",
+        "data": [
+          {
+            "id": 6700,
+            "name": "Composing in your Canvas!",
+            "desc": "With compose getting attraction and many apps moving towards it, it's time to see how we can draw and design complex yet beautiful UI using Canvas in Canvas.         In this talk,       1. We are going to see how to work with Basic out of box drawing for Canvas                    2. How canvas works and is different from View system's canvas?       3. Draw a Custom UI with help for Compose's Canvas 4. Tips for better canvas drawings in Compose I am telling you, let's make Mathematics fun to learn for developers!",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Compose"
+            ],
+            "presenters": "Himanshu Singh",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 6800,
+            "name": "Scaling Performance and Availability Monitoring across distributed squads",
+            "desc": "At Skyscanner we have multiple distributed teams contributing to our Android codebase. Over the past two years we’ve been building and refining a framework to allow us to track and visualise the Availability and Performance of the features in our app in a clear and consistent way to ensure that we are delivering the best experience for our travellers.                   This talk will go through our journey, covering areas including:                  - How to effectively define 'what' you should be monitoring                   - How to write and provide client-side code that makes this easy for engineers              - How to understand and transform this data into something clear and meaningful                    By walking through the above, we will be looking at the Android code as well as touching on basic concepts around Data Pipelines and Site Reliability Engineering (SRE). However no previous knowledge of these is required and hopefully this talk will be a good introduction!",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Michael Tweed",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 6900,
+            "name": "Let's get this Droid on the road",
+            "desc": "The automotive industry is moving to Android! Every year more cars are announced that run Android natively, and more companies announce they need engineers to develop in-car experiences.               In this talk I'll take everyone through some of the pitfalls (e.g. Google isn't everywhere in cars), what types of apps automotive companies are looking for, and how to develop apps for the range of cars we're going to see on the road in the next few years. ",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Android Auto"
+            ],
+            "presenters": "Al Sutton",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 7000,
+            "name": "How the Android Framework Monitors, Processes, and Triggers ANRs",
+            "desc": "This is your opportunity to get a wider picture of ANRs so you can better understand how your code is resulting in frozen user experiences. After all, there’s a lot more to eliminating ANRs than just preventing the main thread from being blocked for 5 seconds.\n                    \n                    Google Play Console stack traces frequently point to code that was not responsible, which leads to endless dead ends and frustration. In addition, the Android documentation does not spell out all the time thresholds that cause ANRs to be triggered at the OS level.\n                    \n                    In this presentation, we’ll take a deep dive into how ANRs are monitored, processed, and triggered at the OS level, providing mobile engineers with a better understanding of how they can protect their apps from ANRs:\n                    \n                    - How the OS triggers ANRs in Activities, Services\n                    - BroadcastReceivers, and ContentProviders\n                    - What data is collected by the OS for each type of ANR\n                    - Why Firebase Crashlytics and Google Play Console display different ANR data\n                    - What are the different approaches to detecting ANRs in production",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Jamie Lynch",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 7100,
+            "name": "Offline first Flutter applications ",
+            "desc": "Even though the world is becoming more 'online' every day, there are still a lot of parts of the world that we all suffer connectivity problems. And, as we all know, as good developers, we should not let that affect the users' experiences in our applications.\n\n                    Thinking 'offline' first is a concept that we all suffer to achieve. Luckily there are some tools provided to us to make our lives easier. Tools like Amplify DataStore provides a programming model for leveraging shared and distributed data without writing additional code for offline and online scenarios, which makes working with distributed, cross-user data just as simple as working with local-only data.\n\n With this talk, I will share my experience with thinking 'offline' first with the applications I worked on before. You will learn about, what Flutter offers for being 'offline' first, how you can achieve a great experience for your users by architecting your app the correct way, and most importantly, you will learn what NOT to do. :) ",
+            "cat": [
+              "Intermediate",
+              "Session",
+              "Flutter"
+            ],
+            "presenters": "Salih Guler",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "10:30 a.m",
+        "data": [
+          {
+            "id": 7200,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "10:40 a.m",
+        "data": [
+          {
+            "id": 7300,
+            "name": "Using Compose Runtime to create a client library ",
+            "desc": "Jetpack Compose (UI) is a powerful UI toolkit for Android. Have you ever wondered where this power comes from? The answer is Compose Runtime.           In this talk, we will see how we can use Compose Runtime to create client libraries. Firstly, we will talk about Compose nodes, Composition, Recomposer, and how they are orchestrated to create a slot table. Then, we will see how the changes in the slot table are applied with an Applier. Moreover, we will touch upon the Snapshot system and how the changes in the state objects trigger a recomposition. Finally, we will create a basic UI toolkit for PowerPoint using Compose Runtime.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Jetpack Compose"
+            ],
+            "presenters": "Fatih Giriş",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 7400,
+            "name": "Go with the Flow!",
+            "desc": "The Kotlin coroutines library only offers a few basic operators for Flow compared to Rx libraries — that’s by design.\n                    When you get a bit in the weeds of a piece of reactive code and reach for some familiar Rx operator like groupBy or throttle, you’ll see there are no built-in equivalents in Flow. No need to worry, though: if you find yourself needing more than what comes out of the box, Flow operators are much easier to write than you would expect.                    During this session, we’ll see how Flow operators are made, and how we can implement even the most complex behaviors with a handful of lines by leveraging the power of coroutines. :kotlin-intensifies:",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Flow"
+            ],
+            "presenters": "Fatih Giriş",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 7500,
+            "name": "From Scoped Storage to Photo Picker: Everything to know about Storage",
+            "desc": "Persistence is a core element of every mobile app.\n Android provides different APIs to access or expose files with different tradeoffs.\n                    - Should you request WRITE_EXTERNAL_STORAGE?\n                    - How can you modify an image on the shared storage?\n                    - Do you need a file provider?\n \n                    You’ll be able to understand the key concepts of storage and take advantage of recent APIs to improve both your developer productivity and users' privacy.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Yacine Rezgui",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 7600,
+            "name": "What’s next for senior developers? The IC track missing manual",
+            "desc": "Once you reach a senior developer position, career progression is way more difficult: expectations for the next level are often not clear or even non-existent, and the lack of clarity pushes people to become managers instead of continuing their growth as individual contributors. In this talk, I will run an honest retrospective about my experience as an individual contributor, sharing my victories, defeats, and learnings.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Soft Skills"
+            ],
+            "presenters": "Lorenzo Quiroli",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 7700,
+            "name": "Native Platform Views for mobile and beyond",
+            "desc": "In this talk we'll review how to use Platform Views on Android and iOS. What are the most surprising considerations when working with them? What if some native library does not support Flutter and you need to display its UI in the app? We'll look into showing native views on desktop platforms and see what is still missing in this area.",
+            "cat": [
+              "Advanced",
+              "Session",
+              "Flutter"
+            ],
+            "presenters": "Dominik Roszkowski",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "11:20 a.m",
+        "data": [
+          {
+            "id": 7800,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "11:30 a.m",
+        "data": [
+          {
+            "id": 7900,
+            "name": "Compose beyond Material",
+            "desc": "Jetpack Compose is here to stay, and most teams will adopt it sooner or later. Creating Material UI with Compose is straightforward thanks to the generous amount of ready to use Material composables that the team at Google provided, what if your company has their own design system?\n                    This session will cover the Compose blocks, explaining what you can reuse and what you’ll need to create from scratch, and show you an example of how to get started creating your own composables for your own design language, without having to reinvent the wheel.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Compose"
+            ],
+            "presenters": "Sebastiano Poggi",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 8000,
+            "name": "Tell me about it! - Improve your feedback game to become a better engineer",
+            "desc": "Have you ever asked for feedback and people respond with vague praise, suggestions that aren’t actionable, or just nothing at all? Has anyone asked you for feedback and not knowing what else to say, you give vague praise, top-of-mind suggestions, or you say nothing at all? Have you ever shared a document but only gotten comments that seem to miss the point? Or have you reviewed a pull request where you don't understand what the author is trying to do, but the code looks good enough (after some nit-picky changes) that you 'LGTM' and approve it?                  You might think of feedback as either stressful, scary or tedious, but it's necessary for change and growth. Feedback is a skill that can skyrocket yourself, your colleagues and your work significantly. I will talk about the core of giving and getting better feedback, so you can get started with or speed up your feedback game today - for career, code reviews, software system designs, and more.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Soft Skills",
+              "Other"
+            ],
+            "presenters": "Elin Nilsson",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 8100,
+            "name": "Best practices for shielding mobile apps from emerging threats",
+            "desc": "Whether it's fraud, data exfiltration, IP theft or tampering, there's no shortage of threats Android developers have to address and mitigate. In this talk, Jan Vidar Krey, the head of development for Promon, will unveil the company's latest research in mapping the current state of affairs of real-world Android application security.\n                   After that, Jan Vidar will share the practical steps Android developers can take to protect their own apps and reduce risk",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Security"
+            ],
+            "presenters": "Jan Vidar Krey",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 8200,
+            "name": "Look, Mum, No Internet - Creating great experiences with offline-first apps",
+            "desc": "Many of today’s successful apps provide their functionality independent from any network connection. You are able to read and compose messages with Whatsapp, check or update your Calendar and browse content on Instagram even while offline. Supporting this capability also improves the UX of apps even with perfect internet connectivity - Have you ever seen a loading spinner in Whatsapp? \n             This talk will explore how we build the Stocard Wallet app offline first, so that our users can scan their loyalty cards or pay without any network connection. We iteratively improved our approach and I will give you insights into how we do “offline first” nowadays, how this affects the way we we build features, and how we ended up here.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Andreas Wenger",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 8300,
+            "name": "Adding physics to your Flutter App",
+            "desc": "Learn how to integrate a physics engine into your Flutter application with Flame and Forge2D.",
+            "cat": [
+              "Flutter",
+              "Advanced",
+              "Session"
+            ],
+            "presenters": "Alejandro Santiago & Jaime Blasco",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "12:10 p.m",
+        "data": [
+          {
+            "id": 8400,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "12:20 p.m",
+        "data": [
+          {
+            "id": 8500,
+            "name": "Going global: building for a multilingual world",
+            "desc": "Half the world is multilingual. It's only right that their phone should be too. With Android 13, developers have backwards compatible tools to set application languages at runtime. In this talk, you'll learn how to leverage these to build for a global and multilingual audience.           Consider this user journey to understand why this is important: You've moved to Germany from the Netherlands. You enjoy using entertainment, messaging, and news apps in your native language, Dutch. Some apps work better in German, like your local banking or language-learning app. You prefer to navigate through the rest of your phone in English as you’re used to the English digital terms.           Come join us as we dive into this highly anticipated feature. And provide your multilingual end users the ability to fluently set your application’s language according to their preferences.",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Lightning talk",
+              "Accessibility"
+            ],
+            "presenters": "Pratyush More",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 8600,
+            "name": "Migrate to Google Play Billing v5",
+            "desc": "Google announced at Google I/O this year their new version for Google Play Billing that changes everything for In-App Subscription\n            In this talk we are going to :\n           - Review all the new features\n            - Implement the new SDK\n            - Migrate from v4 to v5\n            - Discover the new Subscription API for backend",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Lightning talk",
+              "Other",
+              "API"
+            ],
+            "presenters": "Kevin Herembourg",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 8700,
+            "name": "Caching your GraphQL data graph",
+            "desc": "Caching is hard!\n            In this talk, we'll look at GraphQL, how it differs from REST and how having a type system for your data can help with caching.\n            We'll explore normalized databases, how using them as source of truth keeps your UI state always consistent and make sure state changes are reflected in all your screens.\n            Finally, we'll put that to practice by looking at a sample conference app.",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Lightning talk",
+              "Other"
+            ],
+            "presenters": "Martin Bonnin & Benoit Lubek",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 8800,
+            "name": "Opinionated guide on Proof of Concept projects",
+            "desc": "In the era of Jetpack Compose, Kotlin Multiplatform Mobile and an arsenal of new Android frameworks, libraries and architectures, it's more than important to be able to evaluate new technologies correctly!\n            Proof of Concept projects (PoCs) are usually used for this purpose, but little to no guide is available on how to do them effectively and properly.\n            This talk will demystify the process of making PoCs for you!",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Lightning talk",
+              "Other"
+            ],
+            "presenters": "Oussama Hafferssas",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 8900,
+            "name": "M1 Mac machines in CI/CD for Flutter developers",
+            "desc": "Why should Flutter developers care about the M1 Mac Minis? These machines are super fast and now available on cloud-based CI/CD providers.            The build speeds are blazing fast compared to the Intel machines, but it may not be that straightforward to just switch to the new instance type. What are the benefits you will get and the concerns you should consider when switching to M1 Mac Minis in your CI/CD tools and what does it take to transition to the new architecture?",
+            "cat": [
+              "Keynote",
+              "Lightning talk",
+              "Flutter"
+            ],
+            "presenters": "Nils Reichardt",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "12:40 p.m",
+        "data": [
+          {
+            "id": 9000,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "1:30 PM",
+        "data": [
+          {
+            "id": 9100,
+            "name": "Branching out to Jetpack Compose",
+            "desc": "As one of the most widely used social media platforms, Twitter is always hunting for ways to better connect its users. In early 2021 the Client UI team at Twitter began the task of integrating Jetpack Compose into the Twitter for Android app, with the goal of allowing developers to efficiently write new UI features.\n           In this talk, Chris & Nacho will outline the process which the team has undertaken to adopt Jetpack Compose sustainably. They will explore the static tooling which has been written to guide developers instantly, how our design system components have evolved in that time, the processes that have been established to support feature teams. We’ll also cover some of the mistakes that we’ve made along the way.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Jetpack",
+              "Compose"
+            ],
+            "presenters": "Chris Banes & Nacho López",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 9200,
+            "name": "Gradle recipes for reducing your build times",
+            "desc": "Learnings from how we reduced the build times on a large project from 14 minutes down to 2 minutes.\n            In this talk, we’ll go through some of the issues that we discovered were causing our builds to take so long and what we learned from them, then we’ll deep-dive into how we went about fixing these issues, and how we tried to ensure that we never end up in this position again.\n            You don’t need to be a Gradle expert to attend this talk or to make these changes to your codebase to improve your own build times.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Gradle"
+            ],
+            "presenters": "Adam Ahmed",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 9300,
+            "name": "Exploring Android internals with ADB",
+            "desc": "We all use ADB during development for debugging and admin tasks. But, what else can you find out and what can you do with it?\n            In this talk I will show how to use ADB as a window into the internal workings of the Android operating system. I will begin with system services, which are the core of Android, and show how to dump state, interact with them from the command line, and how to send binder messages. You can, for example, place a phone call from the command line.\n            At an even lower level, we have native services. These are Unix daemons that are started during early boot. You can list them, start and stop them, and even restart the Android run-time.\n            Next, file permissions: what prevents an app or service from accessing a file? This is a story of Unix file permissions and SELinux policy. I will show how you can see the permissions and the policy, and change them - but only if you have root access.\n            Finally, I will look at system properties. These are global variables used throughout Android to tune the framework, to record status information and to act as signals when a property changes",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Chris Simmonds",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 9400,
+            "name": "How to become your app's 'security champion'",
+            "desc": "In this session, we will take an introductory look at mobile security, the threats we face as mobile developers and the steps you can take to become a 'security champion' for your app to protect your business and, most importantly, your users.",
+            "cat": [
+              "enterprise & security",
+              "Introductory and overview",
+              "Session",
+              "Security"
+            ],
+            "presenters": "Chris Simmonds",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 9500,
+            "name": "Power of federated plugins in Flutter's ecosystem",
+            "desc": "Ever wished FlutterFire supports Linux and Windows? Wish no more, it's a fact in-progress. Earlier this year, Invertase released Firebase Auth support for Flutter on Linux, Windows, and Dart. Moreover, Desktop support for more packages of the FlutterFire family is yet to come. Under the hood, Federated Plugins system has made this possible, how does federating your plugins work for empowering the Flutter ecosystem to grow faster on all 6 platforms?\n            In this talk, we will understand how Federated plugins in Flutter work, with real case studies and examples such as FlutterFire Desktop and Plus Plugins.",
+            "cat": [
+              "Intermediate",
+              "Session",
+              "Flutter"
+            ],
+            "presenters": "Guillaume Bernos",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "2:10 PM",
+        "data": [
+          {
+            "id": 9600,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "2:20 PM",
+        "data": [
+          {
+            "id": 9700,
+            "name": "Demystifying Molecule: Running Your Own Compositions For Fun And Profit",
+            "desc": "Molecule is a library for turning Composables into Flows. But how does that happen? What are the advantages and disadvantages to building and running your own Compositions, and where to even start?\n           In this talk we’ll cover the history of reactive design patterns with Kotlin, Coroutines, Compose, and how Molecule gives you the ability to compose your own business logic into functional units. How you might use this for unit testing, and how the role of architecture components fits into the equation.\n            We’ll show you why you might want to do such a thing, and where it might make sense not to. How Molecule works under the hood, and help you to understand where, when and how you should use it.",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session",
+              "Jetpack",
+              "Compose",
+              "Kotlin"
+            ],
+            "presenters": "Ash Davies",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 9800,
+            "name": "State of BLE on Android in 2022",
+            "desc": "BLE (Bluetooth Low Energy) has been available on Android since API level 18. This was 9 years ago and a lot has happened since then. The platform APIs have become more stable, new features are supported, and the OS is providing better support for working with BLE while the app is in the background.\n           In this talk, we will go through the state of BLE on Android in 2022, and also look at what is coming up soon. This session will be valuable for anyone working on BLE or planning to.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Erik Hellman",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 9900,
+            "name": "Take a look at Jetpack Glance",
+            "desc": "Jetpack Glance is the new shiny library in the Jetpack family for creating widgets. At first glance, it resembles a Jetpack Compose, but in many cases, it is really different. Learn those differences and create beautiful widgets easily.\n          During this talk, I will describe how the Jetpack Glance works, what are the differences between it and RemoteViews widgets. You will also learn why we still need some XMLs, how to manage the state, and periodic updates.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Piotr Prus",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 10000,
+            "name": "Model-driven navigation with Appyx – From zero to hero",
+            "desc": "Do we think of navigation as a UI-related concept, or can it be described on the model level? Where are the boundaries between navigation, application state, and animation?\n            In this talk, we’ll take a journey from zero to hero: we'll start with simple navigation from code and take it to the mind-blowing level, powered by Appyx and Jetpack Compose. With a model-driven approach, we'll discover an entirely new perspective on what we consider navigation, and see how we can implement any kind of a navigable component, limited only by our imagination.",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session"
+            ],
+            "presenters": "Zsolt Kocsi",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 10100,
+            "name": "Let's test the full widget tree!",
+            "desc": "In 'full tree' widget tests instead of writing widget tests exercising just 1 widget in separation, we set up the whole path user would have to follow to get to this widget.\n            It's similar to writing integration tests, but these tests are faster and interact with mocks instead of making real API calls. It’s easy to test happy paths, but also error scenarios and timeouts. Another benefit of those tests is quickly increasing test coverage, as many layers of the app are tested at the same time. This makes refactoring easier - tests will check if all parts of the app still behave as expected.\n            Talk agenda:\n            -when to use full tree tests and when plain widget tests are enough\n            -what can you test with it\n            -advantages over using widget tests or integration tests\n            required setup\n            -common problems",
+            "cat": [
+              "Intermediate",
+              "Session",
+              "Testing",
+              "Flutter"
+            ],
+            "presenters": "Alicja Ogonowska",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "3:00 PM",
+        "data": [
+          {
+            "id": 10300,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "3:10 PM",
+        "data": [
+          {
+            "id": 10400,
+            "name": "Back to front - Backend technologies for the frontend developer",
+            "desc": "What is an ETag? What is a CDN? What is optimistic locking? What is idempotency? What is a cluster? Wth should I care?\n            In this session we will be discussing a few very important technologies and ideas that will help you take your career to the next level.",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Savvas Dalkitsis",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 10500,
+            "name": "AOSP customization",
+            "desc": "Writing your own Android apps is so cool, but what's even cooler than being cool? Using Android Studio to make your own entire Android-based Operating System, and it's not even hard!\n            In this talk we'll cover:\n           - What is the Android Open-Source Project, how is it different than the Android that I have on my phone, and which parts are easy to customize vs which parts might be harder\n           - How to setup and build AOSP, and get the image onto a real Pixel device or emulator\n           - How you can get a working environment for AOSP similar to what you're used to for writing Android apps\n            - How to add your own apps or even replace the default apps (even add a custom launcher!)\n            - How to override the status bar / navigation bar UIs\n            - Tools that AOSP uses under the hood to build and manage the source code, and how you can take advantage of them to create your own builds\n            - How to get code from our your private repositories into AOSP",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session",
+              "Android Studio"
+            ],
+            "presenters": "Effie Barak",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 10600,
+            "name": "Creating & Scaling Meaningful Performance Tests in CI",
+            "desc": "Performance testing is easier and more important than ever, especially with the recent emergence of Macro/Microbenchmark and other libraries/tools. While these methods provide a great way to catch regressions before they make it into production, determining what to test, how to create good tests to catch that “what”, and orchestrating tests at scale in CI introduces many new challenges to the mix.\n            I plan to give an intermediate-level talk about how to solve those new challenges when performance testing in CI.\n            I plan for audience members to leave my talk learning:\n            - What mobile performance metrics are worthy of being tested on mobile in CI vs what’s best suited for using production data.\n            - What makes for a truly useful performance test. (controllable, user-impacting, reproducible, i.e. doesn't deal with network/IO latency, focuses on rendering performance and on-device functionality)\n           - How to build those truly useful tests to benchmark the mobile-specific metrics we determined we wanted to measure (leveraging Macrobenchmark/UiAutomator).\n         - How to combine all the previous points to orchestrate consistent and accurate tests on both emulators and real, physical devices in CI.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Testing"
+            ],
+            "presenters": "Ryan Brooks",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 10700,
+            "name": "The power of Camera APIs and OpenGL all together ",
+            "desc": "Are you using the best out of your device camera and GPU in your app?\n            Have you ever wondered how a view or camera frame is drawn on the screen?\n            Do you think your camera should do way more than just clicking a picture or recording a video?\n            Did you ever try to process the frames from camera hardware like applying filters or beautification before previewing it?\n            \n            Android provides you with Camera APIs which are used for retrieving frames from Camera hardware. Those frames can be manipulated, modified, beautified in any manner before previewing or recording it.\n            You can even add your custom views like static images or even 3D face mask or any 3D object in the preview after detecting objects like the face in frames. This entire process is called rendering objects in camera preview frames.\n            Not only rendering, but we can also apply various filters like Sepia, grayscale and many more before previewing each frame.         These all features can be utilized in any android app using OpenGL.\n            \n            how a view or camera frame is drawn on the screen?\n            What is OpenGL?\n            how OpenGL controls GPU rendering?\n            What are vertex and fragment shaders?\n            How do they affect the camera frame and preview?\n            How can we modify the camera frames between camera APIs and previewing?\n            What all can we do with that?\n            \n          Well, let's get all these questions answered in the talk along with our experiences and challenges we've faced.",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Session",
+              "API"
+            ],
+            "presenters": "Suneet Agrawal",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 10800,
+            "name": "Observation-based product development using Flutter",
+            "desc": "Any Flutter developer knows how great this SDK is at creating beautiful, performant and portable apps. Usually, we do not want just to create an app - we want to build THE product. We want to create something that will be used by our users every day, something that will bring them joy and make their life easier. Thus, it's crucial to keep a finger on the pulse of the users' behaviour, understand their struggles and needs, and later make observation-based decisions to improve our products. In this talk, I will share some real-world tips and tricks used in developing THE products with Flutter.\n          \n            This talk covers three main app observation strategies:\n            1) App monitoring - logs, error & crash reports, performance metrics;\n            2) Product metrics - app metrics and analytics;\n            3) UX - internal and external user feedback.",
+            "cat": [
+              "Flutter",
+              "Intermediate",
+              "Session"
+            ],
+            "presenters": "Mangirdas Kazlauskas",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "3:50 PM",
+        "data": [
+          {
+            "id": 10900,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "4:00 PM",
+        "data": [
+          {
+            "id": 11000,
+            "name": "Psychological Safety: Building fearless teams ",
+            "desc": "How do you support a team culture where everyone feels safe to open up, ask questions, and raise ideas without fear of negative consequences?\n            \n            Your first instinct might be that this question is for managers and leaders — people whose responsibility it is to create that culture and lead the team. But let’s challenge that assumption. Inside a team, it’s everyone’s responsibility to bring technical skills, but also to embrace different opinions, build trust, nurture curiosity, and learn from failures. Each individual has the power to influence a psychologically safe team culture. So, what do you bring to the table?\n                   As Android developers we don’t just bring code to our teams. We should be bringing our whole authentic selves and contributing to a team culture where everyone feels safe to do so too.\n         \n            In this talk, managers and team members will have the opportunity to reflect on who they are at work, how they contribute to the team beyond code, and take away practical ideas for how to create psychologically safe teams.",
+            "cat": [
+              "droidcon",
+              "Keynote",
+              "Session",
+              "Soft Skills"
+            ],
+            "presenters": " Anastasia López &Sofia Gerbase",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 11100,
+            "name": "App-etite for Destruction: a look into the cookbook of an attacker",
+            "desc": "Imagine waking up to the realization that the personal data of millions of your users is being leaked. A minor oversight in an app can lead to major reputational damage. We all know the horror stories, but few app developers can explain what parts of their app are actually at risk.\n\n            In this talk, we want to turn these horror stories into learning opportunities. Let's take a deep dive into the cookbook of an attacker. What angles are malicious users of your app looking from? What did the actual exploited source code look like? What does a typical exploitation process look like?\n            \n            We will also look at the different ways the mobile industry is trying to protect itself against these attacks. Acronyms like OWASP, MASVS, and MASA are nice, but do they really spoil the appetite of an attacker?\n            \n           We'll explain what we at Guardsquare see as the next step in mobile application security, and how you can both contribute to this and benefit from it today. ",
+            "cat": [
+              "enterprise & security",
+              "Introductory and overview",
+              "Session",
+              "Security"
+            ],
+            "presenters": "Ingmar Dasseville",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 11200,
+            "name": "Practical TDD for Android",
+            "desc": "TDD can sound like the simple solution to all your problems, promising a comprehensive test suite and high-quality code that basically writes itself. But test-driving a complex app can be a daunting task in practice. At Moonpig we now use TDD every day, but it took time, effort and discipline to overcome the challenges that we faced along the way.\n            \n            Are you struggling with TDD? Have you tried it with simple algorithmic problems but can't figure out how to approach a complex app? Or perhaps you're keen to try it but you need to convince the rest of your team. Or you're just new to the whole idea and are trying to figure out where to start.\n            \n            In this talk we'll start by covering the core concepts of TDD, how to get started, and look at a few common mistakes. We'll discuss different approaches to TDD and highlight Android-specific patterns that have worked well for us in practice. Finally, we'll look at how we purposefully designed our architecture to foster and maintain a culture of test-driven development from the core of our app - and how you can too.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Testing"
+            ],
+            "presenters": "Todd Yates",
+            "loc": "Booth",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 11300,
+            "name": "google-services.json file - to commit or not to commit? That’s the question",
+            "desc": "When following the recommended option to add Firebase to your Android app, the Firebase Console tells you to download a file named google-services.json (which contains API Keys from your Firebase Project) and add it to your app directory. And that makes you wonder: how sensitive are those keys? Should I encrypt it before shipping it with my app? Can I commit it to version control? Is my project going to be publicly exposed and vulnerable?\n            In this talk, Rosário will be answering these questions and will provide a comprehensive security checklist for Android developers to make sure that their app is not unintentionally exposing their Firebase project.\n            Expect to come out of the session with a better understanding of the importance of Firebase’s Security Rules, Firebase App Check and Firebase Auth. Oh, and the answer to the question on the session title, of course.",
+            "cat": [
+              "droidcon",
+              "Introductory and overview",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Rosário Fernandes",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 11400,
+            "name": "Secure your Flutter Web app using Multi factor authentication.",
+            "desc": "While developing apps, it is very important to secure your app and your user's information. Multi-factor authentication increases the security of your app. If you are developing apps for the finance or healthcare sectors then there are more security concerns. In my talk I will be covering the different ways to do MFA in flutter web apps. In my discussion, I would be going over things like How you can do MFA with a combination of Firebase and Identity Platform.",
+            "cat": [
+              "Introductory and overview",
+              "Session",
+              "Flutter"
+            ],
+            "presenters": "Renuka Kelkar",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "4:40 PM",
+        "data": [
+          {
+            "id": 11500,
+            "name": "Break",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "4:50 PM",
+        "data": [
+          {
+            "id": 11600,
+            "name": "At long last we have Kotlin first at Meta! ",
+            "desc": "Android started to support Kotlin 5 years ago and became the first-choice language three years ago. But Meta just announced Kotlin as the preferred and default language for our Android code base only 3 months ago. We know Kotlin helps us boost productivity and code safety, so why is Kotlin adoption slow at Meta? Peng and Sergei will walk you through the Kotlin adoption journey at Meta. You will learn what problems speakers have encountered while bring a new programming language into a Giant mobile codebase: from infrastructure support to hardcode JVM bytecode optimizations, from Koltin conventions to build speed optimization. This talk is a next generation of Kotlin Adoption at Scale [https://www.droidcon.com/2021/11/17/kotlin-adoption-at-scale/] talk.\n           Join us to discover all the answers to these problems and how Kotlin makes our lives easier!\n            How do we utilize progressive mode to significantly improve Kotlin compiler checks and upgrade cadence?\n             How do we experiment with Kotlin Parallel Backend IR while it’s still a preview feature?\n             How do we improve our build system to increase efficiency? How did we compile less code while creating more?",
+            "cat": [
+              "droidcon",
+              "Advanced",
+              "Session",
+              "Kotlin"
+            ],
+            "presenters": "Peng Jiang & Sergei Rybalkin",
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 11700,
+            "name": "Understanding the main thread.",
+            "desc": "Android uses classes like Looper, Handler and MessageQueue to orchestrate Runnable's that should be executed by the main thread. This talk dives into this mechanism and reviews how different types of lifecycle and observable callbacks are executed on main thread.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Other"
+            ],
+            "presenters": "Hadi Tok",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 11800,
+            "name": "Best Practices for Integrating Google Wallet to Your App.",
+            "desc": "Google Wallet is a premier, secure digital wallet for Android and Chrome users. Want to learn how you, as a developer, can add items like loyalty cards, gym passes, and event tickets, and even create your custom pass to your Android application? Then join us in this session, where we'll explore the different use cases and best practices for integrating Google Wallet into your app. To bring even more excitement, we might make a few announcements about your new digital wallet's latest and greatest developer features.",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Techniques & Guides"
+            ],
+            "presenters": "Edson Yanaga",
+            "loc": "Hamilton",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 11900,
+            "name": "Don't Kill My App: Android survival guide.",
+            "desc": "A cold-blooded war is raging on Android between “what users can do with their devices” and “how much their device lasts on one charge”. Each new Android OS version is less merciful to your background processes. Different OEMs kill your apps straight away without asking whether you do something useful for your users or not. New weapons of mass destruction are being invented year by year. Their names? Doze mode V1!, Doze mode V2!, Background restrictions!, Adaptive battery! and more are coming this year whose evil names are yet to be known. But we can already imagine their devastating powers.\n           \n            Some OEMs are more cruel than others. The darkest warlords of them all? Samsung, Huawei, OnePlus and Xiaomi in that order. They employ elite trained assassins called app killers whose insidious ways are yet to be documented.\n            \n            It seems impossible to survive, but there is hope. A small group of relentless developers (let’s call them the Resistance) gathered around a project called dontkillmyapp.com. They have risen up against the evil hordes of pkill -9. They have years of experience with long running processes and alarms on Android since the carefree times of Cupcake till the dawn of Tiramisu. And they are here to share tips and guides with users and developers on how to survive in these dark times.\n            \n            On Stardate 2020.7 we released a benchmark app to measure the level of dark practices different OEM-overlords use directly on the affected phones. And no later than Stardate 2022.7 we passed the force field of Google review process only to merge it directly into Android's source code within the CTS module - known as Compatibility Test Suite (or Carpal Tunnel Syndrome?).\n            \n            Now we (the developers from the Light side) can use this new Force to defend our apps. Every one of us can use the the Force of CTS-D (CTS-Defender Module) tests and even submit new tests and show the whole Galaxy who is killing apps and how!\n            \n            Viva la Resistance!\n            P.S. we also have cookies and a guitar song at the end!",
+            "cat": [
+              "droidcon",
+              "Intermediate",
+              "Session",
+              "Techniques & Guides"
+            ],
+            "presenters": "Petr Nalevka & Jiří Richter",
+            "loc": "Liskov",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          },
+          {
+            "id": 12000,
+            "name": "Your app deservers its own CLI: Try sidekick. (20 min)",
+            "desc": "With Flutter we don't have a modular build system like Gradle. But where should you put your code to automate your CI/CD process?\n            \n            A simple bash script in your /tool directory is a good start, but to be honest: None of us is good at bash and nobody really wants to learn it. It doesn't scale, doesn't support dependencies and is not testable.\n            \n            Dart to the rescue! Sidekick generates a Dart command-line application for you. You can use the built-in command\n            \n            - `deps` gets all dependencies for all packages\n            - `gen` runs the build_runner, and formats the code afterwards\n            - `format` runs dart format across the project, ignores generated files.\n            \n            or use the project a starting point for you own commands to be shared with your team. Need some ideas?:\n            \n            - Automatically bump your version number\n            - Release your app to the Play Store / AWS / Firebase\n            - Generate a changelog based on the merged PRs\n            - Home-made build flavors: Switch between environments by editing and swapping of some files",
+            "cat": [
+              "Flutter",
+              "Intermediate",
+              "Lightning talk",
+              "Techniques & Guides"
+            ],
+            "presenters": "Edson Yanaga",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "5:10 PM",
+        "data": [
+          {
+            "id": 12100,
+            "name": "Extending Firebase",
+            "desc": "Firebase undoubtedly revolutionized how we think of building a fully scalable and complex backend service to build mobile and web applications rapidly. The service gets even more exciting if you can integrate it with great software on the internet or extending by adding predefined functionalities.\n            \n            Firebase Extensions help you quickly deploy functionality to your app with pre-packaged solutions. This session will reveal the power of Firebase extensions and show you how you can achieve more by doing less on Firebase!",
+            "cat": [
+              "Advanced",
+              "Lightning talk",
+              "Flutter"
+            ],
+            "presenters": "Majid Hajian",
+            "loc": "Hopper",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      },
+      {
+        "title": "5:20 PM",
+        "data": [
+          {
+            "id": 12200,
+            "name": "End of Show 👋",
+            "desc": null,
+            "cat": null,
+            "presenters": null,
+            "loc": "Lovelace",
+            "status": {
+              "stype": "normal",
+              "msg": null
+            }
+          }
+        ]
+      }
+    ]
+  }
