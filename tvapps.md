@@ -1,4 +1,4 @@
-Download na install App hizi tatu kwenye Android/Google TV yako, moja baada ya nyingine.
+Download na install App hizi tatu kwenye Android/Google TV yako, moja baada ya nyingine.<br/>
 Download and install these three apps to your Android/Google TV one at a time.
 
 1. <a href="AzamTV Max_85_4.3.apk" download>Download AzamTV Max</a>
