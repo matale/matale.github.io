@@ -1,4 +1,5 @@
-Azam TV Max
-<a href="path/to/file" download>Download AzamTV Max</a>
+Download App hizi mbili kwenye Android/Google TV yako.
 
-<a href="path/to/file" download>Download Sideload Launcher</a>
+1. <a href="path/to/file" download>Download AzamTV Max</a>
+
+1. <a href="path/to/file" download>Download Sideload Launcher</a>
